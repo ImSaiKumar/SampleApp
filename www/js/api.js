@@ -90,5 +90,4 @@ api.invoke = function(actionUrl,parms,callBack){
 
     msg.show('No network',1000,false,true);
   } */
-
 }
