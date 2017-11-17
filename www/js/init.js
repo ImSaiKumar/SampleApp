@@ -56,9 +56,6 @@ function bindAll(){
 
 
 
-
-
-
     document.body.onclick = function(e){
       console.log(e);
         //wsonsole.log(e.srcElement.className);
